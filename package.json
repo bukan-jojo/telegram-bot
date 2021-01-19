@@ -1,0 +1,27 @@
+{
+  "name": "telegram",
+  "version": "1.0.0",
+  "description": "jojo bot telegram",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "johanes manik",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "child_process": "^1.0.2",
+    "fs": "0.0.1-security",
+    "google-it": "^1.6.0",
+    "got": "^11.8.1",
+    "gradient-string": "^1.2.0",
+    "moment-timezone": "^0.5.32",
+    "node-fetch": "^2.6.1",
+    "node-gtts": "^2.0.2",
+    "node-telegram-bot-api": "^0.51.0",
+    "request": "^2.88.2",
+    "telegram-command-handler": "^1.4.0",
+    "timestamp-zoned": "^1.0.4"
+  }
+}
